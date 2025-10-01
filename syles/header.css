@@ -19,7 +19,7 @@ header {
   transform: rotate(90deg);
   }
 
-  img[scr*="shopping"]:hover {
+  img[src*="shopping"]:hover {
     transform: rotate(-30deg);
   }
 
